@@ -9,6 +9,9 @@ The eyes are based on a simplified dual-eye mechanism that I adapted and further
 3D-printed parts for the eyes and face using the Creality Neo Max printer.
 A servo-driven mouth movement mechanism designed and integrated by me.
 
+![Robot Head](Robot_face.gif)
+
+
 Features
 Dual Eye Mechanism:
 Coordinated movement of the eyes using four servos, enabling natural motion.
