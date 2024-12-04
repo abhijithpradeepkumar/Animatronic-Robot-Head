@@ -2,7 +2,7 @@ Animatronic Robot Head: Dual Eye Mechanism with Movable Mouth
 
 Overview
 
-This project showcases my work as an MSc Robotics graduate, where I built a 3D-printed animatronic robot head with articulated eyes and a movable mouth. Using 6 servo motors controlled via an Arduino, this mechanism brings the robot's face to life with smooth, realistic motion.
+This project showcases a 3D-printed animatronic robot head with articulated eyes and a movable mouth. Using 6 servo motors controlled via an Arduino, this mechanism brings the robot's face to life with smooth, realistic motion.
 
 The eyes are based on a simplified dual-eye mechanism that I adapted and further customized, inspired by the amazing work of the author on Instructables. My design incorporates:
 
